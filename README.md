@@ -1,5 +1,7 @@
 # British Airways Customer Booking Prediction
 
+Live App: https://british-airways-customer-booking-prediction-q5ngsasnh9kducsn9c.streamlit.app/
+
 ## Project Overview
 This project was completed as part of the British Airways Data Science Virtual Experience Program on Forage.
 
