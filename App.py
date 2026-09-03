@@ -4,8 +4,8 @@ import joblib
 
 # Load Model & Encoders
 
-model = joblib.load("british_airways_rf_model.pkl")
-encoders = joblib.load("label_encoders.pkl")
+model = joblib.load("models/british_airways_rf_model.pkl")
+encoders = joblib.load("models/label_encoders.pkl")
 
 st.set_page_config(
     page_title="British Airways Booking Predictor",
